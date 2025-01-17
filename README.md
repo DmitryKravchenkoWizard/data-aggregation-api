@@ -1,1 +1,1 @@
-# data-aggregation-api
+# Data aggregation project
